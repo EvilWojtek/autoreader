@@ -75,7 +75,8 @@ class _ReaderPageState extends State<ReaderPage> {
   }
 
   void _setText(String text) {
-    words = text.trim().split(' ').where((element) => element != '').toList();
+    i = 0;
+    words = text.trim().replaceAll('\n', ' ').split(' ').where((element) => element != '').toList();
     setState(() {});
   }
 
