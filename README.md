@@ -4,4 +4,4 @@ A funky app for speed reading I coded up in a few hours, don't expect perfect co
 
 Click anywhere to start playing and click again to pause.
 
-You can use it [click here](https://evilwojtek.github.io/autoreader/)
+To use it [click here](https://evilwojtek.github.io/autoreader/)
